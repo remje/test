@@ -1,0 +1,42 @@
+alembic==0.8.6
+aniso8601==1.1.0
+colorama==0.3.7
+coverage==4.3.4
+Flask==0.10.1
+Flask-Cache
+Flask-Migrate==1.8.0
+Flask-RESTful==0.3.5
+simplejson==3.10.0
+flask-restful-swagger==0.19
+Flask-Script==2.0.5
+Flask-SQLAlchemy==2.2
+geojson==1.3.4
+geopy==1.11
+itsdangerous==0.24
+Jinja2==2.8
+jsonschema
+lima==0.5
+Mako==1.0.4
+MarkupSafe==0.23
+marshmallow==2.8.0
+marshmallow-jsonapi==0.8.0
+networkx==1.11
+numpy==1.11.2 # ==>manual on windows http://www.lfd.uci.edu/~gohlke/pythonlibs/
+pandas==0.19.2 # ==>manual on windows http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy
+psycopg2==2.6.2
+ptvsd==2.2.0
+pyproj==1.9.5  # ==> manual on windows http://www.lfd.uci.edu/~gohlke/pythonlibs/#shapely
+pyshp==1.2.11
+
+python-dateutil==2.5.2
+python-editor==1.0.1
+pytz==2016.3
+repoze.profile==2.2
+requests==2.10.0
+scikit-learn==0.18.1  # ==> manual on windows http://www.lfd.uci.edu/~gohlke/pythonlibs/#scikit-learn
+scipy==0.18.1 # ==>manual on windows, install numpy BEFORE http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy
+six==1.10.0
+SQLAlchemy==1.1.10
+shapely==1.5.17 #==> manual on windows http://www.lfd.uci.edu/~gohlke/pythonlibs/#shapely
+tqdm==4.8.4
+vincenty==0.1.4
