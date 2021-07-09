@@ -20,7 +20,7 @@ Mako==1.0.4
 MarkupSafe==0.23
 marshmallow==2.8.0
 marshmallow-jsonapi==0.8.0
-networkx==1.11
+networkx==2.6
 numpy==1.11.2 # ==>manual on windows http://www.lfd.uci.edu/~gohlke/pythonlibs/
 pandas==0.19.2 # ==>manual on windows http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy
 psycopg2==2.6.2
