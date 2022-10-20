@@ -36,7 +36,7 @@ requests==2.10.0
 scikit-learn==0.18.1  # ==> manual on windows http://www.lfd.uci.edu/~gohlke/pythonlibs/#scikit-learn
 scipy==0.18.1 # ==>manual on windows, install numpy BEFORE http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy
 six==1.10.0
-SQLAlchemy==1.1.10
+SQLAlchemy==1.2.18
 shapely==1.5.17 #==> manual on windows http://www.lfd.uci.edu/~gohlke/pythonlibs/#shapely
 tqdm==4.8.4
 vincenty==0.1.4
