@@ -16,7 +16,7 @@ itsdangerous==0.24
 Jinja2==2.8
 jsonschema
 lima==0.5
-Mako==1.0.4
+Mako==1.2.2
 MarkupSafe==0.23
 marshmallow==2.8.0
 marshmallow-jsonapi==0.8.0
