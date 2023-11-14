@@ -32,7 +32,7 @@ python-dateutil==2.5.2
 python-editor==1.0.1
 pytz==2016.3
 repoze.profile==2.2
-requests==2.10.0
+requests==2.31.0
 scikit-learn==0.18.1  # ==> manual on windows http://www.lfd.uci.edu/~gohlke/pythonlibs/#scikit-learn
 scipy==0.18.1 # ==>manual on windows, install numpy BEFORE http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy
 six==1.10.0
