@@ -21,7 +21,7 @@ MarkupSafe==0.23
 marshmallow==2.8.0
 marshmallow-jsonapi==0.8.0
 networkx==1.11
-numpy==1.11.2 # ==>manual on windows http://www.lfd.uci.edu/~gohlke/pythonlibs/
+numpy==1.22.2 # ==>manual on windows http://www.lfd.uci.edu/~gohlke/pythonlibs/
 pandas==0.19.2 # ==>manual on windows http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy
 psycopg2==2.6.2
 ptvsd==2.2.0
@@ -33,10 +33,11 @@ python-editor==1.0.1
 pytz==2016.3
 repoze.profile==2.2
 requests==2.10.0
-scikit-learn==0.18.1  # ==> manual on windows http://www.lfd.uci.edu/~gohlke/pythonlibs/#scikit-learn
-scipy==0.18.1 # ==>manual on windows, install numpy BEFORE http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy
+scikit-learn==0.24.2  # ==> manual on windows http://www.lfd.uci.edu/~gohlke/pythonlibs/#scikit-learn
+scipy==1.10.0rc1 # ==>manual on windows, install numpy BEFORE http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy
 six==1.10.0
 SQLAlchemy==1.1.10
 shapely==1.5.17 #==> manual on windows http://www.lfd.uci.edu/~gohlke/pythonlibs/#shapely
 tqdm==4.8.4
 vincenty==0.1.4
+werkzeug>=2.2.3 # not directly required, pinned by Snyk to avoid a vulnerability
