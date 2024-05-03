@@ -38,5 +38,5 @@ scipy==0.18.1 # ==>manual on windows, install numpy BEFORE http://www.lfd.uci.ed
 six==1.10.0
 SQLAlchemy==1.1.10
 shapely==1.5.17 #==> manual on windows http://www.lfd.uci.edu/~gohlke/pythonlibs/#shapely
-tqdm==4.8.4
+tqdm==4.66.3
 vincenty==0.1.4
