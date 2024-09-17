@@ -13,7 +13,7 @@ Flask-SQLAlchemy==2.2
 geojson==1.3.4
 geopy==1.11
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 jsonschema
 lima==0.5
 Mako==1.0.4
